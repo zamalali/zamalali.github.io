@@ -1,1 +1,6 @@
-This is my portfolio website where I have hosted a few of my projects.
+Thanks for downloading this template!
+
+Template Name: Personal
+Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
